@@ -1,3 +1,3 @@
 function helloo() {
-  alert('Hello World!');
+  alert('meow (^-w-^)');
 }
